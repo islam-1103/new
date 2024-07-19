@@ -874,7 +874,7 @@ img {
 
 .tour__more:hover,
 .tour__more:focus {
-    opacity: .65;
+    opacity: .50;
 }
 
 .top {
@@ -962,7 +962,7 @@ img {
 .top__card-more:hover,
 .top__card-more:focus,
 .top__card-more:active {
-    background: #0e66da;
+    background: #062751;
 }
 
 .videos {
